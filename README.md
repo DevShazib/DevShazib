@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com/u/devshazib)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaSript, PHP, MySQL,jQuery**
+- 🌱 I’m currently learning **HTML, CSS, JavaSript, PHP, MySQL, jQuery**
 
 - 👨‍💻 All of my projects are available at [https://www.facebook.com/sojib.showrab/](https://www.facebook.com/sojib.showrab/)
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mdshazibmiah/](https://www.linkedin.com/in/mdshazibmiah/)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/mdshazibmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdshazibmiah" height="30" width="40" /></a>
 <a href="https://fb.com/sojib.showrab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sojib.showrab" height="30" width="40" /></a>
